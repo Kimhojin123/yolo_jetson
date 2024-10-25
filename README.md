@@ -115,4 +115,7 @@ conda create -n yolo python=3.8 -y 입력
 결과 
 (yolo) dli@dli-desktop:~$
 ```
+```
  pip install -U pip wheel gdown
+ gdown https://drive.google.com/uc?id=1hs9HM0XJ2LPFghcn7ZMOs5qu5HexPXwM
+ gdown https://drive.google.com/uc?id=1m0d8ruUY8RvCP9eVjZw4Nc8LAwM8yuGV 입력 
