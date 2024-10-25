@@ -98,6 +98,8 @@ Libraries:
  - Vulkan: 1.2.70
  - OpenCV: 4.1.1 - with CUDA: NO
 ```
+phython3.8 가상환경을 만든다.
+
 ```
 conda deactivate 입력
 결과
@@ -113,4 +115,4 @@ conda create -n yolo python=3.8 -y 입력
 결과 
 (yolo) dli@dli-desktop:~$
 ```
-
+ pip install -U pip wheel gdown
