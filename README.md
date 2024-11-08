@@ -312,7 +312,7 @@ def predict(cfg=DEFAULT_CFG, use_python=False):
 if __name__ == '__main__':
     predict(use_python = True)
 lo_jetson
-
+```
 ```
 dli@dli-desktop:~$ wget https://github.com/Archiconda/build-tools/releases/download/0.2.3/Archiconda3-0.2.3-Linux-aarch64.sh
 ```
