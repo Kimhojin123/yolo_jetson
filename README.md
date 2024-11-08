@@ -197,7 +197,7 @@ False로 변경하는 주요 이유들:하드웨어 리소스가 제한적일 �
 ```
 
 ```
-# Ultralytics YOLO 🚀, GPL-3.0 license
+# Ultralytics YOLO , GPL-3.0 license
 
 import argparse
 import torch
@@ -510,7 +510,7 @@ False로 변경하는 주요 이유들:하드웨어 리소스가 제한적일 �
 ```
 
 ```
-# Ultralytics YOLO 🚀, GPL-3.0 license
+# Ultralytics YOLO , GPL-3.0 license
 
 import argparse
 import torch
@@ -823,7 +823,7 @@ False로 변경하는 주요 이유들:하드웨어 리소스가 제한적일 �
 ```
 
 ```
-# Ultralytics YOLO 🚀, GPL-3.0 license
+# Ultralytics YOLO , GPL-3.0 license
 
 import argparse
 import torch
@@ -1045,7 +1045,7 @@ conda deactivate 입력
 (base) dli@dli-desktop:~$ 앞에 (base가 사라짐.
 ```
 ```
-conda create -n yolo python=3.8 -y 입력
+conda create -n yolo python=3.8 -y 입 력
 결과
 새로운 패키지 다운로드
 ```
@@ -1070,7 +1070,7 @@ python -c "import torch; print(torch.__version__)"
 
 ```
 ```
- conda install numpy                                       # 또는 >>> 다음에 설치를 해도 된다.
+ conda install numpy                                      
 
 ```
 ```
@@ -1136,7 +1136,7 @@ False로 변경하는 주요 이유들:하드웨어 리소스가 제한적일 �
 ```
 
 ```
-# Ultralytics YOLO 🚀, GPL-3.0 license
+/b Ultralytics YOLO , GPL-3.0 license
 
 import argparse
 import torch
